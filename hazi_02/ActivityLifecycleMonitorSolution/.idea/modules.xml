@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityLifecycleMonitorSolution.iml" filepath="$PROJECT_DIR$/ActivityLifecycleMonitorSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ActivityLifecycleMonitorSolution-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ActivityLifecycleMonitorSolution-app.iml" group="ActivityLifecycleMonitorSolution/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android_Lab2-ActivityLifecycleMonitorSolution.iml" filepath="$PROJECT_DIR$/.idea/modules/Android_Lab2-ActivityLifecycleMonitorSolution.iml" group="ActivityLifecycleMonitorSolution" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
