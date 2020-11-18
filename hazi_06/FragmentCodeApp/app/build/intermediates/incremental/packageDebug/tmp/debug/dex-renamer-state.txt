@@ -1,0 +1,4 @@
+#Wed Nov 18 18:15:58 EET 2020
+base.0=C\:\\Users\\laci\\Desktop\\Android_Megoldasok-master\\Lab6\\FragmentCodeApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
